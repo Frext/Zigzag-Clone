@@ -18,7 +18,7 @@ public class PlayerLoseController : MonoBehaviour
 
     public bool IsPlayerGrounded { get; private set; }
 
-    void LateUpdate()
+    void Update()
     {
         UpdateGroundState();    
     }

@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/71877385/216788809-4586bffa-46f8-4511-
 
 *   **Classic Mechanics:** Simple, one-click control to change direction.
 *   **In-Game Shop:** Collect crystals during your runs to unlock custom ball skins.
-*   **Local Save System:** Saves your personal best high score and unlocked skins.
+*   **Local Save System:** Persists your high score, total crystals and unlocked skins across sessions.
 
 ---
 

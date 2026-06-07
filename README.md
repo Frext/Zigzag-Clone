@@ -4,6 +4,8 @@ A polished, desktop-friendly clone of the famous hypercasual mobile game **ZigZa
 
 Stay on the wall, collect crystals, unlock new skins, and try not to fall off!
 
+---
+
 ## 🚀 Quick Start
 
 Want to skip the code and just play? 

@@ -17,7 +17,7 @@ Want to skip the code and just play?
 
 ## 🎮 Gameplay Preview
 
-https://user-images.githubusercontent.com/71877385/216788809-4586bffa-46f8-4511-9962-fa0adb4bd917.mp4
+https://github.com/user-attachments/assets/6c3e2e33-c3b8-453a-8770-c2c8db302178
 
 ---
 

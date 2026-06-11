@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/6c3e2e33-c3b8-453a-8770-c2c8db302178
 
 ## 🛠️ Built With
 
-*   **Engine:** Unity 2020.3.25f1
+*   **Engine:** Unity (2020.3.25f1)
 *   **Language:** C#
 
 ---

@@ -15,18 +15,18 @@ Want to skip the code and just play?
 
 ---
 
-## 🎬 Gameplay Preview
-
-https://github.com/user-attachments/assets/6c3e2e33-c3b8-453a-8770-c2c8db302178
-
----
-
 ## 🎮 How to Play
 
 1. **Left Click** to start.
 2. Every time you **Left Click**, the ball will switch directions (Left or Right).
 3. Collect crystals to unlock new skins from the shop.
 4. If you fall off the edge, it's game over!
+
+---
+
+## 🎬 Gameplay Preview
+
+https://github.com/user-attachments/assets/6c3e2e33-c3b8-453a-8770-c2c8db302178
 
 ---
 

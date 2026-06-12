@@ -11,7 +11,7 @@ Stay on the wall, collect crystals, unlock new skins, and try not to fall off!
 Want to skip the code and just play? 
 1. **[Download the Repository](https://github.com/Frext/Zigzag-Clone/archive/refs/heads/main.zip)**
 2. Extract the ZIP file.
-3. Open the **`ReleaseBuild`** folder and run the game executable.
+3. Open the **`ReleaseBuild`** folder and run the game executable named **`Zigzag Clone.exe`**.
 
 ---
 
